@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 blla blaa blaa
+=======
+hello hello hello this goes to empty file
+>>>>>>> Stashed changes
